@@ -8,7 +8,7 @@ I'm Camilo, an electronics engineering student diving into machine learning 🤖
 - AI: Exploring computer vision and familiar with ML, DL frameworks and practices 🔍.
 - Data Science: Analyzing and visualizing data to uncover insights 📈.
 - Electronics Engineering: Knowledge in designing and implementing electronic systems 🦾.
-- Languages: Fluent in Spanish 🇪🇸 and Portuguese 🇧🇷.
+- Languages: Fluent in Spanish 🇨🇴 and Portuguese 🇧🇷.
 
 ### Currently
 
